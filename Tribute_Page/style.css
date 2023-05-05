@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+header{
+    background-color: grey;
+    height: 200px;
+}
+
+.title{
+    padding: 55px;
+    color: white;
+    text-align: center;
+}
+
+.data{
+    float: left;
+    background-color: black;
+    font-size: 35px;
+    margin-left: 25px;
+}
+
+.image{
+    float: right;
+    margin-right: 200px;
+    margin-top: 25px;
+}
+
+img{
+    height: 350px;
+}
+
+.data p{
+    padding: 150px;
+    text-align: center;
+    color: white;
+}
+
+.detail{
+    background-color: gray;
+    clear: both;
+    height: 100%;
+    padding: 50px;
+}
+
+.detail2{
+    margin: 0px auto;
+    width: 500px;
+}
+.data1{
+    text-align: left;
+    font-size: 35px;
+    color: white;
+}
+.data2{
+    font-size: 22px;
+    color: white;
+}
+
+footer{
+    height: 50px;
+}
+
+.detail3{
+    color: white;
+}
