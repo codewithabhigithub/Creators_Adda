@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(31, 27, 27);
+}
+
+header{
+    background-color: rgb(244, 219, 171);
+    height: 200px;
+}
+
+.title{
+    padding: 35px;
+    color: rgb(31, 27, 27);
+    text-align: center;
+    font-size: 25px;
+}
+
+.data{
+    float: left;
+    background-color: rgb(31, 27, 27);
+    font-size: 35px;
+    margin-left: 25px;
+}
+
+.image{
+    float: right;
+    margin-right: 190px;
+    margin-top: 45px;
+}
+
+img{
+    height: 400px;
+}
+
+.data p{
+    padding: 150px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.detail{
+    background-color: rgb(244, 219, 171);
+    clear: both;
+    height: 100%;
+    padding: 50px;
+}
+
+.detail2{
+    margin: 0px auto;
+    width: 1150px;
+}
+.data1{
+    text-align: left;
+    font-size: 40px;
+    color: rgb(31, 27, 27);
+}
+.data2{
+    font-size: 22px;
+    color: rgb(31, 27, 27);
+}
+
+footer{
+    height: 50px;
+}
+
+.detail3{
+    color: white;
+}
